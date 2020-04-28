@@ -1,3 +1,13 @@
+---
+
+layout: col-sidebar
+title: OWASP San Pedro Sula
+tags:  San Pedro Sula
+region: Latin America
+
+---
+
+
 # OWASP San Pedro Sula
 
 El capítulo local “OWASP San Pedro Sula” tiene como principal objetivo compartir conocimiento, experiencias, técnicas, enseñanzas y todo aquello que aporte para que nuestra región siga creciendo y se encuentre a la vanguardia en temas relacionados a la seguridad de la información. También deseamos que OWASP San Pedro Sula sea un punto de encuentro y difusión para las distintas actividades que se llevan a cabo en la región.
