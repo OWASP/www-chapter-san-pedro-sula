@@ -1,9 +1,10 @@
 ---
-title: Example
+title: conferencias_es
+displaytext: Eventos Próximos
 layout:  null
 tab: true
 order: 1
-tags: example-tag
+tags: LatamTour2020
 ---
 
 ## Eventos Próximos
