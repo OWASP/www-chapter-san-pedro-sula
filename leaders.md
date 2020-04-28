@@ -1,4 +1,4 @@
-### Leaders
+### Lideres del Capítulo
 
 * [Armando Reniey Rodas Santos](mailto:armando.rodas@owasp.org)
 * [Fernando Alonso Calix Rodriguez](mailto:fernando.calix@owasp.org)
