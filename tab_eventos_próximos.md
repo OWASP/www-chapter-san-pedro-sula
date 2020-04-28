@@ -1,7 +1,7 @@
 ---
-title: conferencias_es
+title: eventos_próximos
 displaytext: Eventos Próximos
-layout:  null
+layout: col-sidebar
 tab: true
 order: 1
 tags: LatamTour2020
