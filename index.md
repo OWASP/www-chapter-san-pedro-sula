@@ -1,10 +1,8 @@
 ---
-Inicio
 layout: col-sidebar
 title: OWASP San Pedro Sula
 tags:  San Pedro Sula
 region: Latin America
-
 ---
 
 
@@ -41,3 +39,10 @@ Proponiendo nuevos proyectos.
 
 ## Eventos Próximos.
 A menos de una semana de nuestro evento OwaspLatam@tHome del 04 al 08 de Mayo 2020 , aquí te presentamos algunas de las charlas y talleres que se estarán impartiendo, si quieres ver todo el programa ingresa a: [OWASP LATAM at Home 2020](https://owasp.org/www-event-2020-latam-at-home/)
+
+---
+layout: col-sidebar
+title: OWASP San Pedro Sula
+tags:  San Pedro Sula
+region: Latin America
+---
