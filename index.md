@@ -2,53 +2,42 @@
 
 layout: col-sidebar
 title: OWASP San Pedro Sula
-tags: example-tag
-level: 0
-
+tags:  San Pedro Sula
 region: Latin America
-
-auto-migrated: 1
 
 ---
 
 
-<!-- Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+# OWASP San Pedro Sula
 
-{front matter for this file}
+El capítulo local “OWASP San Pedro Sula” tiene como principal objetivo compartir conocimiento, experiencias, técnicas, enseñanzas y todo aquello que aporte para que nuestra región siga creciendo y se encuentre a la vanguardia en temas relacionados a la seguridad de la información. También deseamos que OWASP San Pedro Sula sea un punto de encuentro y difusión para las distintas actividades que se llevan a cabo en la región.
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
+## Reuniones
 
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
+Se proponen reuniones trimestrales y grupos de estudio a formarse relacionados en temas de Seguridad Informatica. Se nombran alguno de ellos:
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+ - Análisis de las nuevas tecnologías de la información y las comunicaciones.
+ - Análisis de productos (Software & Appliances).
+ - Investigación de fallas y vulnerabilidades.
+ - Desarrollo de programas y técnicas de exploit relacionadas.
+ - Documentación de soluciones de seguridad.
+ - Desarrollo de herramientas de seguridad.
+ - Demostraciones. Debates y desarrollo investigativo.
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
+## Colabora
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
+Participando en cualquiera de los proyectos actualmente activos (documentación y herramientas).
+Proponiendo nuevos proyectos.
 
-## Local News
-- Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
+- Participando y aportando ideas en nuestra lista de correo.
+- Asistiendo a las conferencias y reuniones.
+- Promoviendo y dando soporte al proyecto OWASP en general.
+- Coffee Breaks y en nuestros eventos.
 
-```
-{info.md}
 
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
+## Social media
+* Enterate de nuestras reuniones y eventos en: [Facebook Page](https://www.facebook.com/OWASPHondurasSPS/) 
 
-{leaders.md}
 
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
--->
+## Eventos Próximos
+A menos de una semana de nuestro evento OwaspLatam@tHome del 04 al 08 de Mayo 2020 , aquí te presentamos algunas de las charlas y talleres que se estarán impartiendo, si quieres ver todo el programa ingresa a: [OWASP LATAM at Home 2020](https://owasp.org/www-event-2020-latam-at-home/)
