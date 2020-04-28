@@ -3,7 +3,7 @@ title: eventos_próximos
 displaytext: Eventos Próximos
 layout: col-sidebar
 tab: true
-order: 1
+order: 2
 tags: LatamTour2020
 ---
 
