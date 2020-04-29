@@ -35,8 +35,7 @@ Apoyando las iniciativas de nuestro capítulo, como son:
 - Promoviendo el capítulo y el proyecto OWASP.
 
 ## Nuestras redes sociales
-En nuestras redes sociales, compartimos recursos educativos y de interés. También te puedes enterar de nuestras reuniones y eventos en: en: [Facebook Page](https://www.facebook.com/OWASPHondurasSPS/) 
+En nuestras redes sociales, compartimos recursos educativos y de interés. También te puedes enterar de nuestras reuniones y eventos en: - [Facebook Page](https://www.facebook.com/OWASPHondurasSPS/) 
 
-## Eventos Próximos.
-A menos de una semana de nuestro evento OwaspLatam@tHome del 04 al 08 de Mayo 2020 , aquí te presentamos algunas de las charlas y talleres que se estarán impartiendo, si quieres ver todo el programa ingresa a: [OWASP LATAM at Home 2020](https://owasp.org/www-event-2020-latam-at-home/)
+
 
