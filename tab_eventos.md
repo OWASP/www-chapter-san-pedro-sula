@@ -42,4 +42,5 @@ Durante la gira de [OWASP LATAM at Home 2020](https://owasp.org/www-event-2020-l
     <td>-</td>
     <td>-</td>
   </tr>
+  </table>
   
