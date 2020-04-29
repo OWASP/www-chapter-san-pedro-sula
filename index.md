@@ -8,7 +8,7 @@ type: documentation
 region: Latin America
 
 ---
-<br><br>
+<br>
 <p align="center">
   <img src="assets/images/owaspsps.png">
 </p>
