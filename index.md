@@ -35,7 +35,11 @@ Apoyando las iniciativas de nuestro capítulo, como son:
 - Promoviendo el capítulo y el proyecto OWASP.
 
 ## Nuestras redes sociales
-En nuestras redes sociales, compartimos recursos educativos y de interés. También te puedes enterar de nuestras reuniones y eventos en: - [Facebook Page](https://www.facebook.com/OWASPHondurasSPS/) 
+En nuestras redes sociales, compartimos recursos educativos y de interés. También te puedes enterar de nuestras reuniones y eventos en:
+
+- [Facebook](https://www.facebook.com/OWASPHondurasSPS/)
+- [Twitter](https://twitter.com/OwaspS)
+
 
 
 
