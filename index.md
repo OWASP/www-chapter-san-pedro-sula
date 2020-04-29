@@ -17,13 +17,13 @@ El capítulo local “OWASP San Pedro Sula” tiene como principal objetivo comp
 
 ## Reuniones
 El capítulo de OWASP San Pedro Sula tiene como objetivo compartir conocimiento, con tod@s las personas interesadas en aprender sobre los temas relacionados con la Ciberseguridad. El capítulo, pretende apoyar a los jóvenes hondureños y motivarlos a que conozcan el fascinante mundo de la ciberseguridad.
-- Hablamos sobre:
+Hablamos sobre:
 - Hacking Ético.
 - Análisis de vulnerabilidades.
 - OSINT (Open Source Intelligence).
 - Seguridad en aplicaciones web.
 - Seguridad en aplicaciones móviles.
-- Seguridad en infraestructura tecnilogica.
+- Seguridad en infraestructura tecnológica.
 - Ingenieria Social.
 - Proyectos de OWASP.
 
