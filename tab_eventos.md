@@ -3,9 +3,9 @@
 title: eventos
 displaytext: Eventos
 layout: col-sidebar
-tags: true
+tab: true
 order: 1
-tags: OwaspSPS
+tags: eventos-tag
 
 ---
 ## Eventos 2019
