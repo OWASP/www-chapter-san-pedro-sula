@@ -33,7 +33,7 @@ Durante la gira de [OWASP LATAM at Home 2020](https://owasp.org/www-event-2020-l
     <td><b>Raúl Aguilar</b>:<br>Security Knowledge Framework<b></td>
     <td>-</td>
     <td>-</td>
-  </tr>
+ 
   <tr>
     <td>19:20-20:00</td>
     <td>-</td>
