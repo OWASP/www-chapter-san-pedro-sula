@@ -5,7 +5,7 @@ displaytext: Eventos
 layout: col-sidebar
 tab: true
 order: 1
-tags: eventos-tag
+tags: OwasSPS
 
 ---
 ## Eventos 2019
