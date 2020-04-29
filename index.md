@@ -2,7 +2,8 @@
 
 layout: col-sidebar
 title: OWASP San Pedro Sula
-tags:  San Pedro Sula
+tags:  OwasSPS
+type: documentation
 region: Latin America
 
 ---
@@ -10,13 +11,14 @@ region: Latin America
 <p align="center">
   <img src="assets/images/owaspsps.png">
 </p>
-<br>
+<br><br>
 # OWASP San Pedro Sula
 
 El capítulo local “OWASP San Pedro Sula” tiene como principal objetivo compartir conocimiento, experiencias, técnicas, enseñanzas y todo aquello que aporte para que nuestra región siga creciendo y se encuentre a la vanguardia en temas relacionados a la Ciberseguridad. 
 
 ## Reuniones
 El capítulo de OWASP San Pedro Sula tiene como objetivo compartir conocimiento, con tod@s las personas interesadas en aprender sobre los temas relacionados con la Ciberseguridad. El capítulo, pretende apoyar a los jóvenes hondureños y motivarlos a que conozcan el fascinante mundo de la ciberseguridad.
+
 Hablamos sobre:
 - Hacking Ético.
 - Análisis de vulnerabilidades.
