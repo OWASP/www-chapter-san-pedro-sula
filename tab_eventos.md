@@ -41,6 +41,7 @@ Durante la gira de [OWASP LATAM at Home 2020](https://owasp.org/www-event-2020-l
     <td><b>Armando Rodas</b>:<br>OSINT, Técnicas de Reconocimiento en un Test de Intrusión<b>
     <td>-</td>
     <td>-</td>
+  </tr>
       
 ## Eventos 2019
 ### Semana de Ingeniería CEUTEC (Centro Universitario Tecnológico)
