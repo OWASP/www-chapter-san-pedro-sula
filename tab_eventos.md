@@ -30,7 +30,7 @@ Durante la gira de [OWASP LATAM at Home 2020](https://owasp.org/www-event-2020-l
     <td>18:40-19:20</td>
     <td>-</td>
     <td>-</td>
-    <td><b>Raúl Aguilar</b>:<br>Security Knowledge Framework<b>
+    <td><b>Raúl Aguilar</b>:<br>Security Knowledge Framework</td>
     <td>-</td>
     <td>-</td>
   </tr>
@@ -38,15 +38,15 @@ Durante la gira de [OWASP LATAM at Home 2020](https://owasp.org/www-event-2020-l
     <td>19:20-20:00</td>
     <td>-</td>
     <td>-</td>
-    <td><b>Armando Rodas</b>:<br>OSINT, Técnicas de Reconocimiento en un Test de Intrusión<b>
+    <td><b>Armando Rodas</b>:<br>OSINT, Técnicas de Reconocimiento en un Test de Intrusión</td>
     <td>-</td>
     <td>-</td>
   </tr>
 </table>
-<br>  
+<br>
+      
 ## Eventos 2019
 ### Semana de Ingeniería CEUTEC (Centro Universitario Tecnológico)
 ### Semana de ingeniería UTH (Universidad tecnológica de Honduras)
 ### OWASP LatamTour 2019
- 
   
