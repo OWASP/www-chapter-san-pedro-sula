@@ -5,7 +5,7 @@ title: OWASP San Pedro Sula
 tags:  OwasSPS
 level: 0
 type: documentation
-region: Latin America
+region: South America
 
 ---
 <br>
