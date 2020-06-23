@@ -44,6 +44,40 @@ Durante la gira de [OWASP LATAM at Home 2020](https://owasp.org/www-event-2020-l
   </tr>
 </table>
 <br>
+
+### Taller de Ethical Hacking y Ciberseguridad
+<br>
+<p align="center">
+</p>
+<br>
+Durante la gira de [OWASP LATAM at Home 2020](https://owasp.org/www-event-2020-latam-at-home/) participamos como capítulo de Latinoamérica, con las siguientes conferencias:
+<br>
+<table width="100%" border="1" style="text-align:center;">
+  <tr>
+    <th width="10%">Horas</th>
+    <th width="18%">Sabado 4</th>
+    <th width="18%">Sabado 11</th>
+    <th width="18%">Sabado 18</th>
+    <th width="18%">Sabado 25</th>
+  </tr>
+  <tr>
+    <td>18:40-19:20</td>
+    <td>-</td>
+    <td>-</td>
+    <td><b>Raúl Aguilar</b>:<br>Security Knowledge Framework</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>19:20-20:00</td>
+    <td>-</td>
+    <td>-</td>
+    <td><b>Armando Rodas</b>:<br>OSINT, Técnicas de Reconocimiento en un Test de Intrusión</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+</table>
+<br>
       
 ## Eventos 2019
 ### Semana de Ingeniería CEUTEC (Centro Universitario Tecnológico)
