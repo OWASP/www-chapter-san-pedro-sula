@@ -11,6 +11,30 @@ tags: OwasSPS
 ## Eventos 2020
 ### OWASP LATAM at HOME 2020
 <br>
+### Taller de Ethical Hacking y Ciberseguridad
+<br>
+<p align="center">
+</p>
+Durante el mes de julio del 2020, aportaremos a la comunidad de estudiantes del Centro Universitario Tecnológico (CEUTEC) con una serie de talleres que tienen como objeto el apoyo en su desarrollo profesional.
+<br>
+<table width="100%" border="1" style="text-align:center;">
+  <tr>
+    <th width="10%">Horas</th>
+    <th width="18%">Sabado 4</th>
+    <th width="18%">Sabado 11</th>
+    <th width="18%">Sabado 18</th>
+    <th width="18%">Sabado 25</th>
+  </tr>
+  <tr>
+    <td>18:00-21:00</td>
+    <td><b>Kevin Mejía</b>:<br>Explotación de vulnerabilidades en entornos Windows y Linux</td>
+    <td><b>Raúl Aguilar</b>:<br>Introducción a la ciberseguridad y gestión de vulnerabilidades</td>
+    <td><b>Gerardo Gomez</b>:<br>Web Hacking 101</td>
+    <td><b>Armando Rodas</b>:<br>Mobile Hacking 101</td>
+  </tr>
+</table>
+<br>
+<br>
 <p align="center">
   <img src="assets/images/LatamAtHome.jpg">
 </p>
@@ -44,34 +68,26 @@ Durante la gira de [OWASP LATAM at Home 2020](https://owasp.org/www-event-2020-l
   </tr>
 </table>
 <br>
-
-### Taller de Ethical Hacking y Ciberseguridad
+   
+## Eventos 2019
+### Semana de Ingeniería CEUTEC (Centro Universitario Tecnológico)
 <br>
 <p align="center">
 </p>
-<br>
-Durante el mes de julio del 2020, aportaremos a la comunidad de estudiantes del Centro Universitario Tecnológico (CEUTEC) con una serie de talleres que tienen como objeto el apoyo en su desarrollo profesional.
+Durante la semana de ingeniería celebrada por el Centro Universitario Tecnológico (CEUTEC) se realizaron la siguiente charla y taller.
 <br>
 <table width="100%" border="1" style="text-align:center;">
   <tr>
     <th width="10%">Horas</th>
     <th width="18%">Sabado 4</th>
-    <th width="18%">Sabado 11</th>
-    <th width="18%">Sabado 18</th>
-    <th width="18%">Sabado 25</th>
   </tr>
   <tr>
-    <td>18:00-21:00</td>
-    <td><b>Kevin Mejía</b>:<br>Explotación de vulnerabilidades en entornos Windows y Linux</td>
-    <td><b>Raúl Aguilar</b>:<br>Introducción a la ciberseguridad y gestión de vulnerabilidades</td>
-    <td><b>Gerardo Gomez</b>:<br>Web Hacking 101</td>
-    <td><b>Armando Rodas</b>:<br>Mobile Hacking 101</td>
+    <td>13:00-19:00</td>
+    <td><b>Raúl Aguilar</b>:<br>-</td>
+    <td><b>Armando Rodas</b>:<br>-</td>
   </tr>
 </table>
 <br>
-      
-## Eventos 2019
-### Semana de Ingeniería CEUTEC (Centro Universitario Tecnológico)
 ### Semana de ingeniería UTH (Universidad tecnológica de Honduras)
 ### OWASP LatamTour 2019
   
