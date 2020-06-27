@@ -9,11 +9,12 @@ tags: OwasSPS
 
 ---
 ## Eventos 2020
-### OWASP LATAM at HOME 2020
+
 <br>
 ### Taller de Ethical Hacking y Ciberseguridad
 <br>
 <p align="center">
+   <img src="assets/images/taller.png">
 </p>
 Durante el mes de julio del 2020, aportaremos a la comunidad de estudiantes del Centro Universitario Tecnológico (CEUTEC) con una serie de talleres que tienen como objeto el apoyo en su desarrollo profesional.
 <br>
@@ -34,6 +35,7 @@ Durante el mes de julio del 2020, aportaremos a la comunidad de estudiantes del 
   </tr>
 </table>
 <br>
+### OWASP LATAM at HOME 2020
 <br>
 <p align="center">
   <img src="assets/images/LatamAtHome.jpg">
@@ -80,6 +82,7 @@ Durante la semana de ingeniería celebrada por el Centro Universitario Tecnológ
   <tr>
     <th width="10%">Horas</th>
     <th width="18%">Sabado 4</th>
+    <th width="18%">Sabado 4</th>
   </tr>
   <tr>
     <td>13:00-19:00</td>
@@ -89,5 +92,21 @@ Durante la semana de ingeniería celebrada por el Centro Universitario Tecnológ
 </table>
 <br>
 ### Semana de ingeniería UTH (Universidad tecnológica de Honduras)
+<br>
+<p align="center">
+</p>
+Durante la semana de ingeniería celebrada por la Universidad Tecnológica de Honduras se realizaron la siguiente charla y taller.
+<br>
+<table width="100%" border="1" style="text-align:center;">
+  <tr>
+    <th width="10%">Horas</th>
+    <th width="18%">Sabado 4</th>
+  </tr>
+  <tr>
+    <td>18:00-19:30</td>
+    <td><b>Armando Rodas</b>:<br>OWASP Top 10</td>
+  </tr>
+</table>
+<br>
 ### OWASP LatamTour 2019
   
