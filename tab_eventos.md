@@ -28,7 +28,7 @@ Durante el mes de julio del 2020, aportaremos a la comunidad de estudiantes del 
   </tr>
   <tr>
     <td>18:00-21:00</td>
-    <td><b>Kevin Mejía</b>:<br>Explotación de vulnerabilidades en entornos Windows y Linux</td>
+    <td><b>Kevin Mejía</b>:<br>Explotación de vulnerabilidades en entornos Windows y Linux<br><b>Grabación Taller</b>[Link](https://drive.google.com/file/d/15cZbnabd4nSJyMM9XkisvykHaoxo6o2u/view?usp=sharing)</td>
     <td><b>Raúl Aguilar</b>:<br>Introducción a la ciberseguridad y gestión de vulnerabilidades</td>
     <td><b>Gerardo Gomez</b>:<br>Web Hacking 101</td>
     <td><b>Armando Rodas</b>:<br>Mobile Hacking 101</td>
