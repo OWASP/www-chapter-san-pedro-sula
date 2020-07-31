@@ -6,6 +6,9 @@ tags:  OwasSPS
 level: 0
 type: documentation
 region: South America
+meetup-group: OWASP-San-Pedro-Sula-Chapter
+country: Honduras
+postal-code: 
 
 ---
 <br>
