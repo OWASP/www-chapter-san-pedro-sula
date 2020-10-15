@@ -20,14 +20,14 @@ En el mes de la concientización sobre la ciberseguridad apoyaremos a la faculta
 <table width="100%" border="1" style="text-align:center;">
   <tr>
     <th width="10%">Panel</th>
-    <th width="18%">OWASP San Pedro Sula</th>
-    <th width="18%">OWASP Tegucigalpa</th>
-    <th width="18%">OWASP Tegucigalpa</th>
-    <th width="18%">Fecha</th>
-    <th width="18%">Hora</th>
-    <th width="18%">Modalidad</th>
-    <th width="18%">Youtube</th>
-    <th width="18%">Facebook</th>
+    <th width="10%">OWASP San Pedro Sula</th>
+    <th width="10%">OWASP Tegucigalpa</th>
+    <th width="10%">OWASP Tegucigalpa</th>
+    <th width="10%">Fecha</th>
+    <th width="10%">Hora</th>
+    <th width="10%">Modalidad</th>
+    <th width="10%">Youtube</th>
+    <th width="10%">Facebook</th>
   </tr>
   <tr>
     <td>OWASP Honduras</td>
