@@ -13,9 +13,9 @@ tags: OwasSPS
 ### INNOVATE 4.0 "APRENDIZAJE E INNOVACIÓN"
 <br>
 <p align="center">
+En el mes de la concientización sobre la ciberseguridad apoyaremos a la facultad de ingeniería en ciencias de la computación a su evento anual INNOVATE 4.O "Aprendizaje e Innovación".
    <img src="assets/images/unicah.jpg">
 </p>
-En el mes de la concientización sobre la ciberseguridad apoyaremos a la facultad de ingeniería en ciencias de la computación a su evento anual INNOVATE 4.O "Aprendizaje e Innovación".
 <br>
 <table width="100%" border="1" style="text-align:center;">
   <tr>
@@ -31,7 +31,7 @@ En el mes de la concientización sobre la ciberseguridad apoyaremos a la faculta
   </tr>
   <tr>
     <td>OWASP Honduras</td>
-     <td><b>Armando Reniery Rodas</b>
+    <td><b>Armando Reniery Rodas</b>
     <td><b>Kevin Mejía</b>
     <td><b>Francisco Moncada</b>
     <td><b>26 de octubre</b>
@@ -43,8 +43,6 @@ En el mes de la concientización sobre la ciberseguridad apoyaremos a la faculta
 </table>
 <br>
 
-
-<br>
 ### Taller de Ethical Hacking y Ciberseguridad
 <br>
 <p align="center">
