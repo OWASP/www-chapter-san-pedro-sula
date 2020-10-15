@@ -31,6 +31,24 @@ En el mes de la concientización sobre la ciberseguridad apoyaremos a la faculta
   </tr>
 </table>
 <br>
+<table width="100%" border="1" style="text-align:center;">
+  <tr>
+    <th width="15%">Fecha</th>
+    <th width="15%">Hora</th>
+    <th width="15%">Modalidad</th>
+    <th width="15%">Youtube</th>
+    <th width="15%">Facebook</th>
+  </tr>
+   #### Datos del evento:
+  <tr>
+    <td>26 de octubre</td>
+    <td>02:00pm Hora Honduras</td>
+    <td>Transmisión en vivo</td>
+    <td>https://bit.ly/2GOWVCa</td>
+    <td>https://bit.ly/2IgpOrB</td>
+  </tr>
+</table>
+<br>
 
 ### Taller de Ethical Hacking y Ciberseguridad
 <br>
