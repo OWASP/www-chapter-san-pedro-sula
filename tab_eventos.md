@@ -39,7 +39,8 @@ En el mes de la concientización sobre la ciberseguridad apoyaremos a la faculta
     <th width="15%">Youtube</th>
     <th width="15%">Facebook</th>
   </tr>
-   ### Datos del evento:
+  
+   ### Datos del Evento: 
   <tr>
     <td>26 de octubre</td>
     <td>02:00pm Hora Honduras</td>
