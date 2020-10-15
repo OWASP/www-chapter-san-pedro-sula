@@ -11,14 +11,35 @@ tags: OwasSPS
 ## Eventos 2020
 <br>
 ### INNOVATE 4.0 "APRENDIZAJE E INNOVACIÓN"
-<br>
 En el mes de la concientización sobre la ciberseguridad apoyaremos a la facultad de ingeniería en ciencias de la computación a su evento anual INNOVATE 4.O "Aprendizaje e Innovación".
 <p align="center">
-
    <img src="assets/images/unicah.jpg">
 </p>
 <br>
-
+<table width="100%" border="1" style="text-align:center;">
+  <tr>
+    <th width="22%">Panel</th>
+    <th width="22%">OWASP San Pedro Sula</th>
+    <th width="22%">OWASP Tegucigalpa</th>
+    <th width="22%">OWASP Tegucigalpa</th>
+    <th width="22%">Fecha</th>
+    <th width="22%">Hora</th>
+    <th width="22%">Modalidad</th>
+    <th width="22%">Youtube</th>
+    <th width="22%">Facebook</th>
+  </tr>
+  <tr>
+    <td>OWASP Honduras</td>
+    <td>Armando Reniery Rodas</td>
+    <td>Kevin Mejía</td>
+    <td>Francisco Moncada</td>
+    <td>26 de octubre</b></td>
+    <td>02:00pm Hora Honduras</td>
+    <td>Transmisión en vivo</td>
+    <td>https://bit.ly/2GOWVCa</td>
+    <td>https://bit.ly/2IgpOrB</td>
+  </tr>
+</table>
 <br>
 
 ### Taller de Ethical Hacking y Ciberseguridad
