@@ -12,35 +12,13 @@ tags: OwasSPS
 <br>
 ### INNOVATE 4.0 "APRENDIZAJE E INNOVACIÓN"
 <br>
-<p align="center">
 En el mes de la concientización sobre la ciberseguridad apoyaremos a la facultad de ingeniería en ciencias de la computación a su evento anual INNOVATE 4.O "Aprendizaje e Innovación".
+<p align="center">
+
    <img src="assets/images/unicah.jpg">
 </p>
 <br>
-<table width="100%" border="1" style="text-align:center;">
-  <tr>
-    <th width="10%">Panel</th>
-    <th width="10%">OWASP San Pedro Sula</th>
-    <th width="10%">OWASP Tegucigalpa</th>
-    <th width="10%">OWASP Tegucigalpa</th>
-    <th width="10%">Fecha</th>
-    <th width="10%">Hora</th>
-    <th width="10%">Modalidad</th>
-    <th width="10%">Youtube</th>
-    <th width="10%">Facebook</th>
-  </tr>
-  <tr>
-    <td>OWASP Honduras</td>
-    <td><b>Armando Reniery Rodas</b></td>
-    <td><b>Kevin Mejía</b></td>
-    <td><b>Francisco Moncada</b></td>
-    <td><b>26 de octubre</b></td>
-    <td><b>02:00pm Hora Honduras</b></td>
-    <td><b>Transmisión en vivo</b></td>
-    <td><b>https://bit.ly/2GOWVCa</b></td>
-    <td><b>https://bit.ly/2IgpOrB</b></td>
-  </tr>
-</table>
+
 <br>
 
 ### Taller de Ethical Hacking y Ciberseguridad
