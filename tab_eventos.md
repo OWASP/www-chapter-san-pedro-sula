@@ -31,14 +31,14 @@ En el mes de la concientización sobre la ciberseguridad apoyaremos a la faculta
   </tr>
   <tr>
     <td>OWASP Honduras</td>
-    <td><b>Armando Reniery Rodas</b>
-    <td><b>Kevin Mejía</b>
-    <td><b>Francisco Moncada</b>
-    <td><b>26 de octubre</b>
-    <td><b>02:00pm Hora Honduras</b>
-    <td><b>Transmisión en vivo</b>
-    <td><b>https://bit.ly/2GOWVCa</b>
-    <td><b>https://bit.ly/2IgpOrB</b>
+    <td><b>Armando Reniery Rodas</b></td>
+    <td><b>Kevin Mejía</b></td>
+    <td><b>Francisco Moncada</b></td>
+    <td><b>26 de octubre</b></td>
+    <td><b>02:00pm Hora Honduras</b></td>
+    <td><b>Transmisión en vivo</b></td>
+    <td><b>https://bit.ly/2GOWVCa</b></td>
+    <td><b>https://bit.ly/2IgpOrB</b></td>
   </tr>
 </table>
 <br>
