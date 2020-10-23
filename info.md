@@ -2,5 +2,5 @@
 * Chapter Region
 
 ### Social Links
-* [Meetup](#)
+* [Meetup](https://www.meetup.com/es/OWASP-San-Pedro-Sula-Chapter/)
 * [Social Link](#)-->
