@@ -1,8 +1,7 @@
 <!--### Chapter Information
 * Chapter Region
 
-### Social Links
-* [Meetup]()
-* [Social Link](#)-->
-### Meetup OWASP San Pedro Sula
+### Meetup y Redes Sociales
 * [Meetup](https://www.meetup.com/es/OWASP-San-Pedro-Sula-Chapter/)
+* [Facebook](https://www.facebook.com/OWASPHondurasSPS/)
+* [Twitter](https://twitter.com/OwaspS)
