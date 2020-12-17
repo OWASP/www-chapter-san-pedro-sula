@@ -13,7 +13,7 @@ tags: OwasSPS
 ### OWASP LATAM EDICIÓN NAVIDAD0
 <br>
 <p align="center">
-  <img src="assets/images/OwaspNavidad.jpeg">
+  <img src="assets/images/OwaspNavidad.jpg">
 </p>
 <br>
 Se realizará el Evento Virtual OWASP LATAM Edición Navidad, transmitido en el canal de YouTube OWASP LATAM Contaremos con expositores miembos de OWASP LATAM además de invitados especiales. los esperamos.!: [OWASP LATAM Edición Navidad](https://www.youtube.com/c/OWASPLATAM)
