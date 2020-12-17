@@ -12,7 +12,7 @@ tags: OwasSPS
 ### OWASP LATAM EDICIÓN NAVIDAD0
 <br>
 <p align="center">
-  <img src="assets/images/LatamAtHome.jpg">
+  <img src="assets/images/OwaspNavidad.jpeg">
 </p>
 <br>
 
