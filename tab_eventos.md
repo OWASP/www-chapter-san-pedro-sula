@@ -8,6 +8,35 @@ order: 1
 tags: OwasSPS
 
 ---
+## Eventos 2021
+### Caza Recompensas de Vulnerabilidades Web
+<br>
+<p align="center">
+  <img src="assets/images/bughunter.jpg">
+</p>
+<br>
+¿Quieres aprender como ganar dinero hackeando éticamente?
+<br>
+Esta es tu oportunidad, Mario Mejía quien es Bug Hunter y Penetration Tester nos contará en su charla titulada “Caza Recompensas de Vulnerabilidades Web”. Ha reportado fallos de seguridad a través de HackerOne y Bugcrowd a programas como lo son: Twitter, Reddit, TripAdvisor, Zilliqa, y VMWare, entre otros.
+<br>
+<table width="100%" border="1" style="text-align:center;">
+  <tr>
+    <th width="10%">Hora</th>
+    <th width="18%">Fecha</th>
+     <th width="18%">Expositor</th>
+     <th width="20%">Título Charla</th>
+     <th width="18%">Link Registro</th>
+  </tr>
+  <tr>
+    <td>17:00-18:00</td>
+    <td>Sabado 20 de Febrero</td>
+    <td><b>Mario Mejía</b></td>
+    <td>Caza Recompensas de Vulnerabilidades Web</td>
+     <td>[Meetup](https://www.meetup.com/es/OWASP-San-Pedro-Sula-Chapter/)</td>
+  </tr>
+</table>
+<br>
+
 ## Eventos 2020
 <br>
 ### INNOVATE 4.0 "APRENDIZAJE E INNOVACIÓN"
@@ -22,6 +51,7 @@ En el mes de la concientización sobre la ciberseguridad apoyaremos a la faculta
     <th width="18%">OWASP San Pedro Sula</th>
     <th width="18%">OWASP Tegucigalpa</th>
     <th width="18%">OWASP Tegucigalpa</th>
+     <th width="18%">OWASP Tegucigalpa</th>
   </tr>
   <tr>
     <td>OWASP Honduras</td>
