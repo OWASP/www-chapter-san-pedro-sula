@@ -12,10 +12,10 @@ tags: OwasSPS
 ### Caza Recompensas de Vulnerabilidades Web
 <br>
 <p align="center">
-  <img src="assets/images/bughunter.jpg">
+  <img src="assets/images/bughunter.png">
 </p>
 <br>
-¿Quieres aprender como ganar dinero hackeando éticamente?
+<b>¿Quieres aprender como ganar dinero hackeando éticamente?</b>
 <br>
 Esta es tu oportunidad, Mario Mejía quien es Bug Hunter y Penetration Tester nos contará en su charla titulada “Caza Recompensas de Vulnerabilidades Web”. Ha reportado fallos de seguridad a través de HackerOne y Bugcrowd a programas como lo son: Twitter, Reddit, TripAdvisor, Zilliqa, y VMWare, entre otros.
 <br>
@@ -32,7 +32,7 @@ Esta es tu oportunidad, Mario Mejía quien es Bug Hunter y Penetration Tester no
     <td>Sabado 20 de Febrero</td>
     <td><b>Mario Mejía</b></td>
     <td>Caza Recompensas de Vulnerabilidades Web</td>
-     <td>[Meetup](https://www.meetup.com/es/OWASP-San-Pedro-Sula-Chapter/)</td>
+    <td>[Meetup](https://www.meetup.com/es/OWASP-San-Pedro-Sula-Chapter/)</td>
   </tr>
 </table>
 <br>
