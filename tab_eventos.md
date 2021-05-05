@@ -9,6 +9,32 @@ tags: OwasSPS
 
 ---
 ## Eventos 2021
+### Mobile App Security With MobSF
+<br>
+<p align="center">
+</p>
+<br>
+<b>¿Quieres aprender como hackear aplicaciones móviles?</b>
+<br>
+Kelvin López quien es Consultor en Ciberseguridad  nos enseñara a como realizar un análisis de vulnerabilidades estático y dinámico a aplicaciones móviles.
+<br>
+<table width="100%" border="1" style="text-align:center;">
+  <tr>
+    <th width="10%">Hora</th>
+    <th width="18%">Fecha</th>
+     <th width="18%">Expositor</th>
+     <th width="20%">Título Charla</th>
+     <th width="18%">Link Registro</th>
+  </tr>
+  <tr>
+    <td>17:00-18:00</td>
+    <td>Sabado 29 de Mayo</td>
+    <td><b>Kelvin López</b></td>
+    <td>Mobile App Security With MobSF</td>
+    <td>[Meetup](https://www.meetup.com/es/OWASP-San-Pedro-Sula-Chapter/)</td>
+  </tr>
+</table>
+<br>
 ### Caza Recompensas de Vulnerabilidades Web
 <br>
 <p align="center">
