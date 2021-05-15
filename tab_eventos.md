@@ -12,6 +12,7 @@ tags: OwasSPS
 ### Mobile App Security With MobSF
 <br>
 <p align="center">
+  <img src="assets/images/appmov.png">
 </p>
 <br>
 <b>¿Quieres aprender como hackear aplicaciones móviles?</b>
