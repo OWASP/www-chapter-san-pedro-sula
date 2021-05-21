@@ -31,6 +31,10 @@ Hablamos sobre:
 - Ingenieria Social.
 - Proyectos de OWASP.
 
+### Upcoming Meeting: 
+
+{% include chapter_events.html group=page.meetup-group %}
+
 ## Tú también puedes colaborar
 Apoyando las iniciativas de nuestro capítulo, como son:
 - Participando y aportando nuevas ideas a través de nuestra lista de correo o redes sociales.
