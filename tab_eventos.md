@@ -17,7 +17,7 @@ tags: OwasSPS
 <br>
 <b>¿Quieres conocer sobre las buenas prácticas de seguridad en AWS?</b>
 <br>
-Ivan Cárcamo quien es DevOps Engineer nos explicará en su charla titulada "Buenas prácticas de Seguridad en AWS" sobre las mejores prácticas adoptadas por la industria..
+Ivan Cárcamo quien es DevOps Engineer nos explicará en su charla titulada "Buenas prácticas de Seguridad en AWS" sobre las mejores prácticas adoptadas por la industria.
 <br>
 <table width="100%" border="1" style="text-align:center;">
   <tr>
