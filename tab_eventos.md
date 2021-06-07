@@ -9,7 +9,33 @@ tags: OwasSPS
 
 ---
 ## Eventos 2021
-### Mobile App Security With MobSF
+### Buenas prácticas de Seguridad en AWS
+<br>
+<p align="center">
+  <img src="assets/images/AWSSecurity.png">
+</p>
+<br>
+<b>¿Quieres conocer sobre las buenas prácticas de seguridad en AWS?</b>
+<br>
+Ivan Cárcamo quien es DevOps Engineer nos explicará en su charla titulada "Buenas prácticas de Seguridad en AWS" sobre las mejores prácticas adoptadas por la industria..
+<br>
+<table width="100%" border="1" style="text-align:center;">
+  <tr>
+    <th width="10%">Hora</th>
+    <th width="18%">Fecha</th>
+     <th width="18%">Expositor</th>
+     <th width="20%">Título Charla</th>
+     <th width="18%">Link Registro</th>
+  </tr>
+  <tr>
+    <td>17:00-18:00</td>
+    <td>Sabado 19 de junio</td>
+    <td><b>Ivan Cárcamo</b></td>
+    <td>Buenas prácticas de Seguridad en AWS</td>
+    <td>[Meetup](https://www.meetup.com/es/OWASP-San-Pedro-Sula-Chapter/)</td>
+  </tr>
+</table>
+<br>
 <br>
 <p align="center">
   <img src="assets/images/appmov.png">
