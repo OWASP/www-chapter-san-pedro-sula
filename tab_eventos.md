@@ -25,14 +25,14 @@ Ivan Cárcamo quien es DevOps Engineer nos explicará en su charla titulada "Bue
     <th width="18%">Fecha</th>
      <th width="18%">Expositor</th>
      <th width="20%">Título Charla</th>
-     <th width="18%">Link Registro</th>
+     <th width="18%">Grabación</th>
   </tr>
   <tr>
     <td>17:00-18:00</td>
     <td>Sabado 19 de junio</td>
     <td><b>Ivan Cárcamo</b></td>
     <td>Buenas prácticas de Seguridad en AWS</td>
-    <td>[Meetup](https://www.meetup.com/es/OWASP-San-Pedro-Sula-Chapter/)</td>
+    <td>https://drive.google.com/file/d/1wvTXoFd-T5YlQOii5Y-CozwQ_NmnoUcR/view</td>
   </tr>
 </table>
 <br>
