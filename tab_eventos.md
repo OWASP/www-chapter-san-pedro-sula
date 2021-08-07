@@ -9,6 +9,34 @@ tags: OwasSPS
 
 ---
 ## Eventos 2021
+### Escalacíon de privilegios en Linux
+<br>
+<p align="center">
+  <img src="assets/images/EPL.png">
+</p>
+<br>
+<b>¿Quieres aprender sobre Escalación de privilegios en Linux</b>
+<br>
+Durante esta charla aprenderemos sobre escalación de privilegios en Linux, de la mano de Erivan Morales quien es Cybersecurity Analyst y cuenta con más de cinco años en el rubro de las tecnologías de la información y ciberseguridad..
+<br>
+<table width="100%" border="1" style="text-align:center;">
+  <tr>
+    <th width="10%">Hora</th>
+    <th width="18%">Fecha</th>
+     <th width="18%">Expositor</th>
+     <th width="20%">Título Charla</th>
+     <th width="18%">Grabación</th>
+  </tr>
+  <tr>
+    <td>19:00-20:30</td>
+    <td>Martes 31 de agosto</td>
+    <td><b>Erivan Morales</b></td>
+    <td>Escalación de privilegios en Linux</td>
+    <td></td>
+  </tr>
+</table>
+<br>
+
 ### Buenas prácticas de Seguridad en AWS
 <br>
 <p align="center">
