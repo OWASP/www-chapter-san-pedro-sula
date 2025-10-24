@@ -1,0 +1,26 @@
+leaders:
+  - name: Armando Reniey Rodas Santos
+    email: armando.rodas@owasp.org
+    github: rarmando
+  - name: Fernando Alonso Calix Rodriguez
+    email: fernando.calix@owasp.org
+  - name: Raul Aguilar
+    email: raul.aguilar@owasp.org
+location:
+  country: Honduras
+  country_code: HN
+  region: Cortés
+  city: San Pedro Sula
+  latitude: 15.5062156
+  longitude: -88.0248937
+meetup_group: OWASP-San-Pedro-Sula-Chapter
+name: OWASP San Pedro Sula
+repositories:
+  - name: www-chapter-san-pedro-sula
+    url: https://github.com/OWASP/www-chapter-san-pedro-sula
+    description: OWASP Foundation Web Repository
+tags:
+  - OwasSPS
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-san-pedro-sula
